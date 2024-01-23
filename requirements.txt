@@ -19,7 +19,7 @@ httpx==0.24.1
 idna @ file:///Users/cbousseau/work/recipes/ci_py311/idna_1677906072337/work
 lxml==4.9.4
 multidict @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_10voz9m15i/croot/multidict_1701096890858/work
-Pillow==10.0.1
+Pillow==10.2.0
 pyasn1==0.5.1
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pycryptodomex==3.19.1
