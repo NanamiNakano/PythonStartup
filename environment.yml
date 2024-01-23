@@ -1,0 +1,7 @@
+name: PythonStartup
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - requests
+prefix: /Users/nanami/anaconda3/envs/PythonStartup
