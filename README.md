@@ -12,7 +12,7 @@ This project is not a real project, it's just a repo that contains some codes I 
 | Listener for GitHub issue open event                                                                     | TODO              |
 | Simple api that shows files in a folder                                                                  | TODO              |
 | A simple impl for cache based on file, support TTL                                                       | TODO              |
-| Translator based on PyQt                                                                                 | TODO              |
+| Translator based on PyQt                                                                                 | pyqtTranslator.py |
 | File web server based on Redis(what?)                                                                    | TODO              |
 | A system that sync files between devices in a LAN                                                        | TODO              |
 | Port scanner                                                                                             | TODO              |
