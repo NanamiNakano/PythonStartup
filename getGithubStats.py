@@ -38,4 +38,7 @@ print(f"Name: {user['name']}")
 print(f"Company: {user['company']}")
 print(f"Email: {user['email']}")
 print(f"Bio: {user['bio']}")
-print(f"{user['followers']} followers, {user['following']} following, {user['public_repos']} repos, {get_stars()} total star received")
+print(f"{user['followers']} followers, "
+      f"{user['following']} following, "
+      f"{user['public_repos']} repos, "
+      f"{get_stars()} total star received")
